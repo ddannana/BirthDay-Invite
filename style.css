@@ -1,0 +1,66 @@
+html{
+    background-color: deepskyblue;
+    border-color: darkgoldenrod;
+    border-style: double;
+    border-image-width: auto;
+}
+
+#para{
+    top: 30px;
+    color: black;
+    font-size: x-large;
+    color: rgb(127, 255, 227);
+    font: 1000;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    position: relative;
+    text-align: center;
+}
+
+#birthday{
+    padding: -60%;
+    top: 15px;
+    color: black;
+    font: 800;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    position: relative;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+#imgage-birthday{
+    padding: inherit;
+    border: coral;
+    border-color: coral;
+    top: -20%;
+    height: 420px;
+    width: 810px;
+    margin-left: 23%;
+    position: relative;
+}
+
+.h2{
+    margin: 0 10%;
+    text-align: left;
+    font-size: x-large;
+    margin-left: 43%;
+    margin-top: 1%;
+}
+
+#text-align {
+    height: 40px;
+    margin-top: -5%;
+    text-align: center;
+    margin-left: 43%;
+    color: blue;
+}
+
+#home{
+    height: 20px;
+    width: 20px;
+    display: inline;
+}
+
+h4{
+    margin-left: 43%;
+    margin-top: 0.5%;  
+}
