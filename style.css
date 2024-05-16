@@ -36,11 +36,11 @@ html{
 }
 
 .h2{
-    padding: -60%;
     margin: 0 10%;
     text-align: left;
     font-size: x-large;
     margin-left: 43%;
+    margin-top: 1%;
 }
 
 #text-align {
